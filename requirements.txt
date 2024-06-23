@@ -1,0 +1,7 @@
+datasets
+fasttext-wheel
+keras
+nltk
+numpy
+scikit-learn
+tensorflow
