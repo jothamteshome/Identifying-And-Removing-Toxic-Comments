@@ -1,5 +1,22 @@
 # Identifying-Toxic-Comments
 
+## Abstract
+<p>As it becomes easier and easier for people to
+get their voices heard, it also becomes easier
+for people to voice aggressive behaviors. Be it
+on non-anonymous websites, e.g. Facebook or
+Twitter, or on anonymous websites like Reddit,
+toxicity has spread everywhere. Due to this, it
+is absolutely essential that online moderators
+can fight against aggressive online comments
+that might incite harm or violence on others.
+In this paper, we propose a method to detect
+not only toxic statements, but also a method
+to detect which words within these sentences
+are toxic. After those words are located, we
+further propose a method to censor the word
+completely to stop its harm from taking place</p>
+
 ## 1. Author Introduction
 ### 1.1. Griffin
 <p>Griffin (kleveri2@msu.edu) is a 1st year PHD student at Michigan State University. Griffin’s primary
