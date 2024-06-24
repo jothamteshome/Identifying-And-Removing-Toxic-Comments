@@ -1,4 +1,4 @@
-# Identifying-Toxic-Comments
+# Identifying-And-Removing-Toxic-Comments
 
 ## Abstract
 <p>As it becomes easier and easier for people to
